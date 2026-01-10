@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crowd Density Detection</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>🚶 Crowd Density Detection</h1>
+    <p class="subtitle">YOLOv8 + FastAPI</p>
+
+    <!-- Image Section -->
+    <div class="card">
+        <h2>Upload Image</h2>
+        <input type="file" id="imageInput" accept="image/*">
+        <button onclick="analyzeImage()">Analyze Image</button>
+        <p id="imageResult" class="result"></p>
+    </div>
+
+    <!-- Video Section -->
+    <div class="card">
+        <h2>Upload Video</h2>
+        <input type="file" id="videoInput" accept="video/*">
+        <button onclick="analyzeVideo()">Analyze Video</button>
+        <p id="videoResult" class="result"></p>
+    </div>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
