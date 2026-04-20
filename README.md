@@ -45,3 +45,8 @@ Disaster management teams
 It enables early warning before a situation becomes dangerous.
 🎯 ONE-LINE PROBLEM STATEMENT (VERY IMPORTANT)
 “Manual crowd monitoring is inefficient and unsafe; our system automates crowd density estimation using AI to enable faster and safer crowd management.”
+
+
+<img width="1420" height="1312" alt="WhatsApp Image 2026-04-20 at 5 20 03 PM" src="https://github.com/user-attachments/assets/3789986f-80af-4ece-a9db-1da4f95fd528" />
+
+
